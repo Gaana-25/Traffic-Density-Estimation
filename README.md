@@ -2,7 +2,7 @@
 
 A simple tf.keras implementation of YOLO v4
 
-![asset/pred.png](asset/pred.png)
+![img/traffic/hightraffic.jpg](img/traffic/hightraffic.jpg)
 
 ## TODO
 
